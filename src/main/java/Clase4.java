@@ -8,6 +8,6 @@
  *
  * @author anxo
  */
-public class OtraClase {
+public class Clase4 {
     
 }
